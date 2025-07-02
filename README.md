@@ -2,6 +2,7 @@
 
 This web application predicts the likelihood of heart disease in a patient based on clinical parameters. It uses a machine learning model trained on the **UCI Cleveland Heart Disease Dataset** and provides explainable AI insights using **SHAP**.
 
+## Live Link: https://pulseintel.streamlit.app/
 ---
 
 ## 🩺 Project Overview
